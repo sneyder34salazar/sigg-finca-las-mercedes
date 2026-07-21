@@ -35,7 +35,7 @@ Para desarrollo se recomienda la extensión **Live Server** de Visual Studio Cod
 
 ## Autor
 
-Ing Sneider Salazar
+Sneider Salazar
 
 ## Licencia
 
@@ -45,20 +45,6 @@ Consulta el archivo [LICENSE](LICENSE) para el texto completo.
 
 ```
 Copyright (c) 2026 Sneider Salazar
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
 							
 							
 							
