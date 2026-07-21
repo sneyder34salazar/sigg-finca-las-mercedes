@@ -23,7 +23,11 @@ En desarrollo.
 ## Instalación
 ```bash
 # Clonar el repositorio
+<<<<<<< HEAD
 git clone https://github.com/sneyder34salazar/sigg-finca-las-mercedes.git
+=======
+https://github.com/sneyder34salazar/sigg-finca-las-mercedes.git
+>>>>>>> 7649c69b4bea13b8588872040a2664354b631ca6
 
 # Entrar al directorio
 cd sigg-finca-las-mercedes
@@ -35,7 +39,7 @@ Para desarrollo se recomienda la extensión **Live Server** de Visual Studio Cod
 
 ## Autor
 
-Ing Sneider Salazar
+Sneider Salazar
 
 ## Licencia
 
@@ -45,20 +49,6 @@ Consulta el archivo [LICENSE](LICENSE) para el texto completo.
 
 ```
 Copyright (c) 2026 Sneider Salazar
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
 							
 							
 							
