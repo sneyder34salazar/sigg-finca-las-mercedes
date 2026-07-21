@@ -37,7 +37,7 @@ Por definir.
 
 ## Autor
 
-Zulma Salas
+Sneider Salazar
 
 ## Licencia
 
