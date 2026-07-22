@@ -18,7 +18,7 @@ JavaScript — Lógica e interactividad del lado del cliente.
 Instalación
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Ing-ZulmaSalas/sigg-finca-las-mercedes.git
+https://github.com/sneyder34salazar/sigg-finca-las-mercedes.git
 
 # Entrar al directorio
 cd sigg-finca-las-mercedes
